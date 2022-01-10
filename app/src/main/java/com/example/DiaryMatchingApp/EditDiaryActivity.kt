@@ -1,4 +1,4 @@
-package com.example.helloandroid
+package com.example.DiaryMatchingApp
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -6,8 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.view.View
-import com.example.helloandroid.databinding.ActivityEditDiaryBinding
-import com.google.firebase.firestore.SetOptions
+import com.example.DiaryMatchingApp.databinding.ActivityEditDiaryBinding
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
 

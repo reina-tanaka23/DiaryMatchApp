@@ -1,4 +1,4 @@
-package com.example.helloandroid
+package com.example.DiaryMatchingApp
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.helloandroid
+package com.example.DiaryMatchingApp
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,7 +6,7 @@ import android.util.Log
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.helloandroid.databinding.ActivityMainBinding
+import com.example.DiaryMatchingApp.databinding.ActivityMainBinding
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.firestore.ktx.firestore

@@ -1,4 +1,4 @@
-package com.example.helloandroid
+package com.example.DiaryMatchingApp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

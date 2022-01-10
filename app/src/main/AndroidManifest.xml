@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.helloandroid">
+    package="com.example.DiaryMatchingApp">
 
     <application
         android:allowBackup="true"
@@ -9,10 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloAndroid">
-        <activity android:name=".ManageUserIdActiity"></activity>
-        <activity android:name=".ShowDiaryActivity" />
-        <activity android:name=".EditDiaryActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.DiaryMatchingApp.ManageUserIdActiity"></activity>
+        <activity android:name="com.example.DiaryMatchingApp.ShowDiaryActivity" />
+        <activity android:name="com.example.DiaryMatchingApp.EditDiaryActivity" />
+        <activity android:name="com.example.DiaryMatchingApp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

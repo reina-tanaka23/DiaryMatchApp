@@ -1,13 +1,11 @@
-package com.example.helloandroid
+package com.example.DiaryMatchingApp
 
 import android.content.Context
 import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.view.View
-import com.example.helloandroid.databinding.ActivityMainBinding
-import com.example.helloandroid.databinding.ActivityManageUserIdActiityBinding
+import com.example.DiaryMatchingApp.databinding.ActivityManageUserIdActiityBinding
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
 
